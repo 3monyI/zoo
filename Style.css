@@ -5,3 +5,12 @@ p {
     color: red;
     font-size: 20px;
 }
+.sofia {
+    font-family: "Sofia", sans-serif;
+}
+.georgia {
+    font-family: "Georgia", Georgia, serif;
+}
+.monospace {
+    font-family:monospace;
+}
